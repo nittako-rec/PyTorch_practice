@@ -1,2 +1,2 @@
 # PyTorch_practice
-テスト
+PyTorch実践入門の学習
